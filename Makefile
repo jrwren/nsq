@@ -1,4 +1,4 @@
-PREFIX=/usr/local
+PREFIX=/usr
 DESTDIR=
 GOFLAGS=
 BINDIR=${PREFIX}/bin

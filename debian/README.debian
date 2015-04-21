@@ -1,0 +1,3 @@
+The vendored source dependencies are required to be part of the source package
+but is not part of the source repo. Run gpm to fetch the vendor source deps
+before building a source package.

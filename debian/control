@@ -1,0 +1,14 @@
+Source: nsq
+Section: admin
+Priority: optional
+Maintainer: Jay R. Wren <jrwren@xmtp.net>
+Build-Depends: debhelper (>= 8),
+    golang-go (>= 2:1.2) [amd64 i386 armhf],
+Standards-Version: 3.9.5
+Homepage: http://nsq.io
+Vcs-Browser: https://github.com/bitly/nsq
+
+Package: nsq
+Architecture: all
+Depends: ${misc:Depends}
+Description: A realtime distributed messaging platform http://nsq.io/

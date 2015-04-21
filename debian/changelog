@@ -1,0 +1,5 @@
+nsq (0.3.2-1) trusty; urgency=medium
+
+  * Initial release.
+
+ -- Jay R. Wren <jrwren@xmtp.net>  Tue, 21 Apr 2015 14:52:27 -0400
