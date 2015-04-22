@@ -1,3 +1,9 @@
+nsq (0.3.2-2) trusty; urgency=medium
+
+  * change architecture to any from all. (oops)
+
+ -- Jay R. Wren <jrwren@xmtp.net>  Wed, 22 Apr 2015 09:40:34 -0400
+
 nsq (0.3.2-1) trusty; urgency=medium
 
   * Initial release.

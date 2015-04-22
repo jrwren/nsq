@@ -9,6 +9,6 @@ Homepage: http://nsq.io
 Vcs-Browser: https://github.com/bitly/nsq
 
 Package: nsq
-Architecture: all
+Architecture: any
 Depends: ${misc:Depends}
 Description: A realtime distributed messaging platform http://nsq.io/
